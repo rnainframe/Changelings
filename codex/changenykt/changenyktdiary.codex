@@ -1,0 +1,19 @@
+{
+	"id" : "changenyktdiary",
+	"title" : "Survivors Log",
+	"description" : "Gaia Fauna Vol. 5: Changelings.",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "Changelings are an odd, unique species of sentient creatures borne from the planet Gaia. They mainly are found on the continent of Semul, at peace in many different climates- whether it be with humanity or other creatures. They are a master of disguise and imitation, being able to change their bodies and appearance as easily as a ball of moist clay.
+	Young changelings often take on the appearance of their caretakers or whoever they trust the most or have imprinted on in their developing years. This can be anywhere from a pair of human parents that took them in to some wild animals treating them as their young. Around the teen years, they begin to decide on their own true look, and their 'true form' begins to separate from the humanoid one and bulk up.
+	Mature changelings look unique and have a very interesting true form-- two different types are known. A large and stocky type, with a sort of bear-like build, and a thin and athletic type, with a ferret-like build. They all have certain things in common, though- velvety, hairless skin with occasional soft furry parts, a long and slender, almost lion-like tail, a jagged mouth, four eyes, and long ears.
+	The true form lengthwise is about 1.5 to 2 times the size of their height in a human form.
+	Changelings  are also capable of imitating sounds, having a large variety of noises used and lifted from other sources for communication. The most common ones are: purring, from cats, to dictate contentness; frantic, deep-throated clicking, from frogs and insects, to dictate fear; and a mighty growl and roar, like wolves and lions, to dictate anger.
+	They have a culture similar to humans, and thus are often seen borrowing from the aesthetic of spacefaring humans.
+	Most changelings, as with most Gaians, are polytheistic. Their Pantheon of gods are proven to exist, due to them often interacting with mortals. The most common god for changelings to look up to is called Animula, and is the patron of where changelings are said to originate from - a forested country in the Semul continent of Gaia, known as Medium."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
