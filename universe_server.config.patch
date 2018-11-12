@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/changenykt",
+		"value" : [
+		    "/ships/changenykt/changenyktt0.structure",
+			"/ships/changenykt/changenyktt1.structure",
+			"/ships/changenykt/changenyktt2.structure",
+			"/ships/changenykt/changenyktt3.structure",
+			"/ships/changenykt/changenyktt4.structure",
+			"/ships/changenykt/changenyktt5.structure",
+			"/ships/changenykt/changenyktt6.structure",
+			"/ships/changenykt/changenyktt7.structure",
+			"/ships/changenykt/changenyktt8.structure"
+		]
+	}
+]
