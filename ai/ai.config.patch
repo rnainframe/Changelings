@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/changenykt",
+		"value" : {
+			"aiFrames" : "changenyktAI.png",
+			"portraitFrames" : "portraits/changenyktportrait.png",
+			"staticFrames" : "staticchangenykt.png"	
+		}
+	}
+]
